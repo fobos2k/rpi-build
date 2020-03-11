@@ -1,0 +1,38 @@
+locales
+xz-utils
+procps
+tcl
+tcl-dev
+tk
+tk-dev
+gcc
+zlib1g-dev
+gawk
+libedit-dev
+genext2fs
+# cramfsprogs
+libxml2-dev
+mtd-utils
+python
+python3
+cmake
+bc
+kmod
+git-core
+texinfo
+autoconf
+re2c
+bison
+flex
+chrpath
+cpio
+diffstat
+wget
+libusb-1.0
+gcc-arm-none-eabi
+libgtk2.0
+# biber
+# texlive-xetex
+# libc6-dev
+yodl
+zip
